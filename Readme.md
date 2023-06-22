@@ -40,4 +40,4 @@ Start the client
 
 ## Screenshots
 
-![Find Movie by genres](./Screenshots/Find_by_genre.png)
+![Find Movie by genres](./Screenshots/Find_by_genre.jpg)
