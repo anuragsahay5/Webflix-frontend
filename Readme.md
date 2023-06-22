@@ -38,3 +38,6 @@ Start the client
 - ``` Vite ``` : Used Vite as the build tool. Much faster and developer friendly.
 
 
+## Screenshots
+
+![Find Movie by genres](./Screenshots/Find_by_genre.png)
