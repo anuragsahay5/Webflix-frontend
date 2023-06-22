@@ -40,4 +40,7 @@ Start the client
 
 ## Screenshots
 
-![Find Movie by genres](./ss/Find_by_genre.jpg)
+![Find by genres](./ss/Find_by_genre.jpg)
+![Search what you like to see](./ss/Search_movie.jpg)
+![Watch and Add to Your Favourites](./ss/Watch_addtofav.jpg)
+![Maintain your list](./ss/favs_list.jpg)
