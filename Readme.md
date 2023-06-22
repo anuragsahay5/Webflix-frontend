@@ -32,7 +32,9 @@ Start the client
 ## Libraries
 
 - ``` React ``` : As the frontend javascript library to build the frontend.
-
+- 
+- - ``` React router dom ``` : Used to Navigate between pages and handle and design the flow between Login to Signp to app page.
+  - 
 - ``` Axios ``` : Used Axios library to make API calls to backend.
 
 - ``` Vite ``` : Used Vite as the build tool. Much faster and developer friendly.
