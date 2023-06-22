@@ -40,4 +40,4 @@ Start the client
 
 ## Screenshots
 
-![Find Movie by genres](./Screenshots/Find_by_genre.jpg)
+![Find Movie by genres](https://github.com/anuragsahay5/Webflix-frontend/blob/main/ss/Find_by_genre.jpg)
