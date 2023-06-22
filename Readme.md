@@ -50,7 +50,7 @@ Start the client
 ![Search what you like to see](https://i.ibb.co/wpdCs0m/Search-movie.png)
 
 ### Watch and Add to your Favourites
-![Watch and Add to Your Favourites](https://i.ibb.co/3mLMYkW/Watch-addtofav.png)
+![Watch and Add to Your Favourites](https://i.ibb.co/Wkb3PzL/Watch-addtofav.jpg)
 
 ### Your Favourites List
 ![Maintain your list](https://i.ibb.co/yW8JNZp/favs-list.png)
