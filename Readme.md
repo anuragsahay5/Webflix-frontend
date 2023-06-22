@@ -1,8 +1,15 @@
 # Webflix
 ![WebFlix](https://fontmeme.com/permalink/230620/d849efc19dda4821037c2fb4a746ed19.png)
 
-A clone based on Netflix consist of so many features 
+An OTT platform similar to Netflix where you have the access to almost all the media and content with a very beautifull UI. 
 
+## Features
+
+ - Security with Login and Signup features.
+ - A recomending home page with top-rated, trending and popular contents.
+ - Find your content according to your preferred genre.
+ - If not found it on the recommendation, Search for it.
+ - Watch it and Add the Movie in Your Favourite List and watch later.
 
 ## How to use
 
