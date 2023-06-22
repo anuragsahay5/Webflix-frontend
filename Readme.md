@@ -28,3 +28,13 @@ Start the client
 ```bash
   npm run dev
 ```
+
+## Libraries
+
+- ``` React ``` : As the frontend javascript library to build the frontend.
+
+- ``` Axios ``` : Used Axios library to make API calls to backend.
+
+- ``` Vite ``` : Used Vite as the build tool. Much faster and developer friendly.
+
+
