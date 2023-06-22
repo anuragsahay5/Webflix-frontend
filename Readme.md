@@ -20,12 +20,6 @@ Clone the project
   git clone https://github.com/anuragsahay5/Webflix-frontend/
 ```
 
-Go to the project directory
-
-```bash
-  cd client
-```
-
 Install dependencies
 
 ```bash
