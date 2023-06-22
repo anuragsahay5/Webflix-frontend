@@ -43,7 +43,7 @@ Start the client
 
 ## Screenshots
 
-![Find by genres](./ss/Find_by_genre.jpg)
-![Search what you like to see](./ss/Search_movie.jpg)
-![Watch and Add to Your Favourites](./ss/Watch_addtofav.jpg)
-![Maintain your list](./ss/favs_list.jpg)
+![Find by genres](https://i.ibb.co/zsv8Drt/Find-by-genre.png)
+![Search what you like to see](https://i.ibb.co/wpdCs0m/Search-movie.png)
+![Watch and Add to Your Favourites](https://i.ibb.co/3mLMYkW/Watch-addtofav.png)
+![Maintain your list](https://i.ibb.co/yW8JNZp/favs-list.png)
