@@ -2,7 +2,7 @@
 ![WebFlix](https://fontmeme.com/permalink/230620/d849efc19dda4821037c2fb4a746ed19.png)
 
 An OTT platform similar to Netflix where you have the access to almost all the media and content with a very beautifull UI. 
-A Multipage webapp with many exciting features
+A Multipage webapp with many exciting features ...
 
 ## Features
 
