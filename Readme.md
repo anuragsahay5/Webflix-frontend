@@ -43,7 +43,14 @@ Start the client
 
 ## Screenshots
 
+### Find by Genres
 ![Find by genres](https://i.ibb.co/zsv8Drt/Find-by-genre.png)
+
+### Search what you like to see
 ![Search what you like to see](https://i.ibb.co/wpdCs0m/Search-movie.png)
+
+### Watch and Add to your Favourites
 ![Watch and Add to Your Favourites](https://i.ibb.co/3mLMYkW/Watch-addtofav.png)
+
+### Your Favourites List
 ![Maintain your list](https://i.ibb.co/yW8JNZp/favs-list.png)
